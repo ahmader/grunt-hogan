@@ -30,7 +30,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "hogan.js": "~3.0.0",
+    "twitter/hogan.js": "~3.0.0",
     "underscore": "~1.4.4"
   },
   "devDependencies": {
